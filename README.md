@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanuTheCoder
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in software engineering/frontend webdev.
 - 🌱 I’m currently learning Btech in CSE
 - 💞️ I’m looking to collaborate on solving problems
 - registration number :- 2241013363
